@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySuperHeroApp</string>
+    <string name="go_button_name">Go</string>
+</resources>
